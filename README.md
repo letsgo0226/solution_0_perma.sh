@@ -1,0 +1,1 @@
+# solution_0_perma.sh
